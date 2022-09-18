@@ -7,3 +7,17 @@ ReactDOM.createRoot(document.getElementById("root") as HTMLElement).render(
     <App />
   </React.StrictMode>
 );
+
+/**
+ *
+ *
+ *
+ *
+ * prox passos:
+ * responsividade
+ * carrossel - keen-slider
+ * usar select do radix
+ * validação - react hook form
+ * fechar modal após criar ad
+ * autenticação
+ */
